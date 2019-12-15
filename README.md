@@ -2,6 +2,8 @@
 The purpose of this repo is to share code as seen on the twitch channel [jithware](https://www.twitch.tv/jithware).
 
 ## [wtftp](https://github.com/jithware/wtftp)
+Programming with FLTK for the [WTFTP](https://github.com/jithware/wtftp). Broadcasted live on [twitch](https://www.twitch.tv/videos/521821868)
+
 Programming in C for the [WTFTP](https://github.com/jithware/wtftp). Broadcasted live on [twitch](https://www.twitch.tv/videos/520025016)
 
 ## [catdog](./catdog)
