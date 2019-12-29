@@ -2,9 +2,9 @@
 The purpose of this repo is to share code as seen on the twitch channel [jithware](https://www.twitch.tv/jithware).
 
 ## [wtftp](https://github.com/jithware/wtftp)
-Programming with FLTK for the [WTFTP](https://github.com/jithware/wtftp). Broadcasted live on [twitch](https://www.twitch.tv/videos/521821868)
+Programming with [FLTK](https://www.fltk.org/) for the [WTFTP](https://github.com/jithware/wtftp). Broadcasted live on [twitch](https://youtu.be/NQ1eBtqHgM0)
 
-Programming in C for the [WTFTP](https://github.com/jithware/wtftp). Broadcasted live on [twitch](https://www.twitch.tv/videos/520025016)
+Programming in C for the [WTFTP](https://github.com/jithware/wtftp). Broadcasted live on [twitch](https://youtu.be/1Ov1DXzBOsY)
 
 ## [catdog](./catdog)
 Intro to programming with [golang](https://golang.org/doc/code.html). Broadcasted live on [twitch](https://youtu.be/kyWyz3_7IMc)
